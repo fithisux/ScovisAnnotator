@@ -1,0 +1,6 @@
+In order to install the ScovisAnnotator you need 
+
+TCLMagick and TCL/XML, TCL/DOM
+
+You also need TCL/TK > 8.5
+
